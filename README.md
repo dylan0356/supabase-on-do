@@ -2,6 +2,8 @@
 
 [Supabase](https://supabase.com/) is a backend-as-a-service platform built around the Postgres database, and is an Open Source alternative to Firebase. It can reduce time to market by providing a ready to use backend that includes a database with real time capabilities, authentication, object storage and edge functions. You can use Supabase as a service via their [managed offerings](https://supabase.com/pricing) or self-host it on your own server or on a cloud provider.
 
+**Note: I have simply updated the script to align with the new digital ocean API changes in this fork**
+
 ## Running Supabase on DigitalOcean
 
 We will self-host Supabase by deploying the following architecture.
